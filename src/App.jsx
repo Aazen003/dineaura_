@@ -7,7 +7,7 @@ function Lightbox({ isOpen, onClose, item }) {
   const isAvailable = (item.available || "yes").toLowerCase() === "yes";
 
   return (
-    <div className="lightbox lightbox--open" onClick={(e) => e.target === e.currentTarget && onClose()}>
+    <div className="lightbox lightbox--open" onClick={onClose}>
       <button className="lightbox__close" aria-label="Close zoomed image" onClick={onClose}>
         &times;
       </button>
@@ -83,7 +83,7 @@ export default function App() {
           <p className="subtitle">Where modern meets timeless</p>
         </div>
         <div className="hero__logo">
-          <img src="/assets/logo2.jpg" alt="Dine Aura logo" loading="lazy" />
+          <img src="/assets/logo2.png" alt="Dine Aura logo" loading="lazy" />
         </div>
       </header>
 
