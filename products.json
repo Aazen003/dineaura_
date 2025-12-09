@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Luxury Buffet Dish",
+    "price": "10,000 RS",
+    "image": "assets/image.png",
+    "type": "golden",
+    "available": "yes"
+  },
+  {
+    "name": "Marble Bowl in Black",
+    "price": "8,000 RS",
+    "image": "assets/image2.png",
+    "type": "wooden",
+    "available": "yes"
+  },
+  {
+    "name": "Flora Plate Stand",
+    "price": "7,000 RS",
+    "image": "assets/image3.png",
+    "type": "golden",
+    "available": "yes"
+  },
+  {
+    "name": "Regal Bloom Platter",
+    "price": "5,000 RS",
+    "image": "assets/image4.png",
+    "type": "silver",
+    "available": "yes"
+  },
+  {
+    "name": "Orvera",
+    "price": "7,000 RS",
+    "image": "assets/image5.png",
+    "type": "silver",
+    "available": "no"
+  }
+]
+
