@@ -292,19 +292,3 @@ This project is ideal as:
 
 ---
 
-## 📌 License
-
-This project is currently intended for **private or portfolio use**.  
-Add a license file if you plan to distribute or commercialize.
-
----
-
-If you want, next we can:
-
--   Add **badges** (React, Vite, CSS)
-    
--   Write a **short one-liner repo description**
-    
--   Optimize this for **recruiters / portfolio review**
-    
--   Add screenshots or GIF placeholders to the README
