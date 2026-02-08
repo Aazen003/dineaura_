@@ -22,7 +22,7 @@ It’s built for boutique brands that want to **showcase products beautifully** 
     
 -   Glass-inspired product cards with soft glows and smooth hover transitions
     
--   Minimal UI that keeps attention on the products
+-   Minimal UI that keeps attention on the products and is easy on the eyes
     
 
 ---
