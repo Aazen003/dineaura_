@@ -287,7 +287,7 @@ This project is ideal as:
     
 -   A **design + engineering portfolio project**
     
--   A foundation for future e-commerce expansion
+-   A foundation for future e-commerce expansion possibly adding more features in the future
     
 
 ---
